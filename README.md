@@ -15,7 +15,5 @@ Léo WOLFF
 
 ## Version History
 
-* 0.2
-    * Add README.md
 * 0.1
     * Initial Release
