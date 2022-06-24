@@ -10,7 +10,6 @@ NODE JS, Express.
 ## Authors
 
 Léo WOLFF
-[@Wolff51]
 
 
 ## Version History
